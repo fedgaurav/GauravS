@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -41,7 +40,7 @@
           <div class="row">
             <div class="home-content">
                 <div class="text-1">Hello, my name is</div>
-                <div class="text-2">Prakash Shahi</div>
+                <div class="text-2">Gaurav Sharma</div>
                 <div class="text-3">And I'm a <span class="typing"></span></div>
                 <a href="#">Hire me</a>
             </div>
@@ -58,9 +57,8 @@
                     <img src="images/profile-1.jpeg" alt="">
                 </div>
                 <div class="column right">
-                    <div class="text">I'm Prakash and I'm a <span class="typing-2"></span></div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi ut voluptatum eveniet doloremque autem excepturi eaque, sit laboriosam voluptatem nisi delectus. Facere explicabo hic minus accusamus alias fuga nihil dolorum quae. Explicabo illo unde, odio consequatur ipsam possimus veritatis, placeat, ab molestiae velit inventore exercitationem consequuntur blanditiis omnis beatae. Dolor iste excepturi ratione soluta quas culpa voluptatum repudiandae harum non.</p>
-                    <a href="#">Download CV</a>
+                    <div class="text">I'm Gaurav and I'm a <span class="typing-2"></span></div>
+                    <p>Hello there, I'm a web developer & a traveller as well. I love making websites in my free time. So, if you like this website then fill the feedback form given below in the website!</p>
                 </div>
             </div>
         </div>
@@ -75,21 +73,21 @@
                     <div class="box">
                         <i class="fas fa-paint-brush"></i>
                         <div class="text">Web Design</div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
+                        <p>I do web designing and web development also</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-chart-line"></i>
-                        <div class="text">Advertising</div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
+                        <div class="text">Programming</div>
+                        <p>I love programming with python and javascript!</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <i class="fas fa-code"></i>
                         <div class="text">Apps Design</div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem quia sunt, quasi quo illo enim.</p>
+                        <p>So, I'm new at app designing. Nowadays I'm learning app development!</p>
                     </div>
                 </div>
                </div>
@@ -104,7 +102,7 @@
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">My creative skills & experiences.</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, ratione error est recusandae consequatur, iusto illum deleniti quidem impedit, quos quaerat quis minima sequi. Cupiditate recusandae laudantium esse, harum animi aspernatur quisquam et delectus ipsum quam alias quaerat? Quasi hic quidem illum. Ad delectus natus aut hic explicabo minus quod.</p>
+                    <p>I have learnt some courses like HTML5, CSS3, JAVA SCRIPT, PYTHON, PHP. As you can see my learning percentage on the right side of your computer screen.</p>
                     <a href="#">Read more</a>
                 </div>
                 <div class="column right">
@@ -118,7 +116,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>CSS</span>
-                            <span>60%</span>
+                            <span>80%</span>
                         </div>
                         <div class="line css"></div>
                     </div>
@@ -139,7 +137,7 @@
                     <div class="bars">
                         <div class="info">
                             <span>MySQL</span>
-                            <span>70%</span>
+                            <span>40%</span>
                         </div>
                         <div class="line mysql"></div>
                     </div>
@@ -151,41 +149,41 @@
     <!-- teams section start -->
     <section class="teams" id="teams">
         <div class="max-width">
-            <h2 class="title">My teams</h2>
+            <h2 class="title">My Gallery</h2>
             <div class="carousel owl-carousel">
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-1.jpeg" alt="">
-                        <div class="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <div class="text">Sunset</div>
+                        <p></p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-2.jpeg" alt="">
-                        <div class="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <div class="text">My Farm</div>
+                        <p></p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-3.jpeg" alt="">
-                        <div class="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <div class="text">Python</div>
+                        <p></p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-4.jpeg" alt="">
-                        <div class="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <div class="text">Anaconda</div>
+                        <p></p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="images/profile-5.jpeg" alt="">
-                        <div class="text">Someone name</div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        <div class="text">Python</div>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -199,27 +197,27 @@
             <div class="contact-content">
                 <div class="column left">
                     <div class="text">Get in Touch</div>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos harum corporis fuga corrupti. Doloribus quis soluta nesciunt veritatis vitae nobis?</p>
+                    <p>So It's my humbe request to you all that you all guys please fill out this feedback form!</p>
                     <div class="icons">
                         <div class="row">
                             <i class="fas fa-user"></i>
                             <div class="info">
                                 <div class="head">Name</div>
-                                <div class="sub-title">Prakash Shahi</div>
+                                <div class="sub-title">Gaurav Sharma</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Address</div>
-                                <div class="sub-title">Surkhet, Nepal</div>
+                                <div class="sub-title">Old KNP, U.P., INDIA, 208002</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">abc@gmail.com</div>
+                                <div class="sub-title">portfolio.gaurav@gmail.com</div>
                             </div>
                         </div>
                     </div>
@@ -253,7 +251,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="https://www.codingnepalweb.com">CodingNepal</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
+        <span>Created By <a href="#">Jr.Gaurav Sharma</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
