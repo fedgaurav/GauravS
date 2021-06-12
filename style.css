@@ -258,7 +258,7 @@ section .title::after{
 }
 
 /* services section styling */
-.services, .teams{
+.services, .gallery{
     color:#fff;
     background: #111;
 }
